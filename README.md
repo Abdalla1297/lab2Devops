@@ -15,6 +15,9 @@ git push origin --delete dev
 ### To delete a local branch, run either of these commands:
 ```
 git branch -d dev
+```
+### or
+```
 git branch -D dev
 
 ```
